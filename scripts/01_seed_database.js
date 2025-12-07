@@ -9,7 +9,7 @@ use esports_db;
 // Limpeza inicial (Garante idempotência do script)
 db.teams.drop();
 db.matches.drop();
-db.partidas.drop(); // Caso já tenha sido renomeado
+db.partidas.drop(); // Esse drop é pra podermos rodar vários teste a vontade, devido a renomeação em scripts/03_maintenance_legacy.js
 
 print(">>> Iniciando Inserção de Dados...");
 
