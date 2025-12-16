@@ -1,7 +1,9 @@
 # 🎮 E-Sports Manager (MongoDB Project)
 
 Projeto desenvolvido para a disciplina de **Banco de Dados** do **CIn-UFPE**.
+
 **Semestre:** 2025.2
+
 **Professora:** Valéria Cesário Times
 
 ---
